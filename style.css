@@ -1,0 +1,236 @@
+*{
+   box-sizing: border-box;
+  margin: 5px;
+  
+}
+body{
+    margin: 0px;
+    padding:0px;
+    background-color: black;
+
+}
+.navbar-links{
+    display: flex;
+    width: 86%;
+    
+}
+.nav{
+    display: flex;
+    
+    align-items: center;
+    background-color: black;
+    color: gray;
+    
+}
+.navbar-links ul{
+    
+    justify-content: space-evenly;
+    margin: 0;
+    padding: 50px;
+    display: flex;
+}
+.navbar-links ul{
+    width: 106%;
+    list-style: none;
+    height: 100px;
+   
+} 
+.navbar-links li a{
+    text-decoration: none;
+    color: gray;
+    margin-left: 15px;
+    
+    
+}
+i:hover{
+    color: white;
+}
+
+
+.first{
+  background-image: url(images/razer-gift-guide-2022-homepage-desktop2x.jpg);
+    background-size: 100% 800px;
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 200px;
+}
+.second{
+    background-image: url(images/razer-blade-15-2022-hero-m.jpg);
+    background-size: 100% 800px;
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align-last: center;
+    padding: 120px;
+    
+}
+.thrid{
+    background-image: url(images/razer6.jpg);
+    background-size: 100% 800px;
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align-last: center;
+    padding: 50px;
+    
+}
+.four{
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+    background-size: 100% 1200px;
+
+}
+.p1{background-image: url(images/razer\ 5.jpg);
+background-size: 100% 800px;
+width: 100%;
+height: 800px;
+background-repeat: no-repeat;
+text-align-last: center;
+padding: 50px;
+}
+.p2{
+    background-image: url(images/razer10.jpg);
+    background-size: 100% 800px;
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align-last: center;
+    padding: 50px;
+}
+.pic{
+    display: flex;
+}
+.pic2nd{
+    display: flex;
+
+}
+.p3{
+    background-image: url(images/razer-edge-hero.jpg);
+    background-size: 100% 800px;
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align-last: center;
+    padding: 50px;
+
+}
+.p7{
+    background-image: url(images/razer\ 4.jpg);
+    background-size: 100% 800px;
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    text-align-last: center;
+    padding: 50px;
+}
+
+
+
+
+
+
+
+
+.razer{
+
+    display: flex;
+    border: 10px;  
+    
+}
+.razer2ndpart{
+    display: flex;
+    border: 10px;
+
+}
+.razer3rdpart{
+    display: flex;
+    margin: 10px;
+}
+.header{
+    border-bottom: 2px solid green;
+    
+    
+  
+}
+.navbar-links li :hover{
+    color: white;
+
+
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+body{
+   background-color: black;
+
+}
+
+
+
+.one{
+    width: 300px;
+    height: 400px;
+  
+    text-align: left;
+    padding: 50px;
+    color: grey;
+
+    
+
+}
+.two{
+    width: 300px;
+    height: 400px;
+    
+    text-align: left;
+    padding: 50px;
+    color: grey;
+}
+.three{
+    width: 300px;
+    height: 400px;
+    
+    padding: 50px;
+    color: grey;
+}
+.four{
+    width: 300px;
+    height: 400px;
+ 
+    text-align: inherit;
+    padding: 50px;
+    color: grey;
+}
+.five{
+    width: 300px;
+    height: 400px;
+ 
+    text-align: inherit;
+    padding: 50px;
+    color:green;
+}
+h4{
+    color: white;
+}
+li:hover{
+    color: white;
+}
+#shop{
+    margin-left: 45px; 
+}
+h1{
+    color: white;
+}
+
+
+
+ 
+    
+
+    
+
